@@ -1,1 +1,10 @@
 /* Your custom styles goes here */
+body {
+    background: #6b705c;
+    color: #eee;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    margin-bottom: 1em;
+}
+div.date,nav.breadcrumbs{display:none !important;}
