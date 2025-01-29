@@ -4,9 +4,9 @@ body {
     font-size: 14px;
     font-weight: lighter;
     margin-bottom: 1em;
-    @body-background: #545b30;
-    @body-color: #dfdac8;
-    @header-color: #668068;
-    @nav-border: #7a7f55
+    background: #545b30;
+    color: #dfdac8;
+    header-color: #668068;
+    nav-border: #7a7f55;
 }
 div.date,nav.breadcrumbs{display:none !important;}
