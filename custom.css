@@ -1,6 +1,6 @@
 /* Your custom styles goes here */
 body {
-    background: #455;
+    background: #807663;
     color: #dfdac8;
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
@@ -21,5 +21,5 @@ div.date,nav.breadcrumbs{display:none !important;}
     bottom: 0;
 }
 h1 a {
-    color:#466;
+    color:#937663;
 }
