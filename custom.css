@@ -8,3 +8,15 @@ body {
     margin-bottom: 1em;
 }
 div.date,nav.breadcrumbs{display:none !important;}
+#albums .info {
+    position: absolute;
+    padding: 1em;
+    background: rgba(0, 0, 0, 0.3);
+    color: #aaa;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    margin: 0;
+    width: 100%;
+    font-weight: bold;
+    bottom: 0;
+}
