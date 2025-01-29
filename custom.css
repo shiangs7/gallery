@@ -9,5 +9,5 @@ body {
 }
 div.date,nav.breadcrumbs{display:none !important;}
 a {
-  color: 668068; /* 設定超連結的文字顏色 */
+  color: #668068; /* 設定超連結的文字顏色 */
 }
